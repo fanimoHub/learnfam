@@ -1,5 +1,5 @@
 # learnfam
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+Thanks for visiting [The Learnfam](https://www.leanfam.ir)!
 
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
@@ -47,7 +47,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Link
 
-[Markdown Guide](https://www.markdownguide.org)
+[Learnfam Guide](https://www.leanfam.ir)
 
 ### Image
 
@@ -68,9 +68,9 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Mohamad",
+  "lastName": "Fani",
+  "age": 40
 }
 ```
 
